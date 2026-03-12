@@ -50,7 +50,7 @@ Task & Expense manager inspired by Notion & Todoist.
 ## 🤝 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/Jain-Daksh)  
-- 🌐 [Portfolio](https://jain-daksh.github.io)  
+- 🌐 [Portfolio](https://jain-daksh.vercel.app/)  
 - ✉️ Email: daksh44jain@gmail.com  
 
 ---
