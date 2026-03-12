@@ -1,58 +1,122 @@
-# 🌟 Daksh Jain – Full Stack Developer  
+<h1 align="center">Hi 👋, I'm Daksh Jain</h1>
+<h3 align="center">Full Stack MERN Developer | Node.js | React.js | PostgreSQL</h3>
 
-Hi there 👋 I'm **Daksh**, a passionate **MERN Stack Developer** with 2+ years of experience building scalable applications.  
-I specialize in **Node.js, React.js, PostgreSQL, MySQL** and I’m currently diving into **Redis, MongoDB, React Native, and Flutter**.  
-
-🚀 Always curious about system design, clean code, and performance optimization.  
-🎯 Currently sharpening skills in **Node.js & Advanced React.js**.  
-📈 Preparing for my next big career move.  
+<p align="center">
+Passionate about building scalable applications, clean architecture, and performance optimization.
+</p>
 
 ---
 
-## 🔧 Tech Stack  
+# 🚀 About Me
 
-- **Languages:** JavaScript, TypeScript, SQL  
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS  
-- **Backend:** Node.js, Express.js, GraphQL  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-- **Tools & Others:** Git, Docker, Prisma, Cypress, Jest  
+- 💻 Full Stack **MERN Developer** with 2+ years experience  
+- ⚙️ Skilled in **Node.js, React.js, PostgreSQL, MySQL**  
+- 🧠 Exploring **Redis, MongoDB, React Native, Flutter**  
+- 🎯 Focused on **System Design & Scalable Backend Architecture**  
+- 📈 Preparing for my **next big career opportunity**
 
 ---
 
-## 📂 Featured Projects  
+# 🧠 Tech Stack
 
-### 🔹 [Digital Doctor](https://github.com/Jain-Daksh/digital-doctor)  
-A MERN-based health records app with **secure patient-doctor data sharing**.  
+## 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+## ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+## 🧩 Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+## 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+## 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+
+---
+
+# 🚀 Featured Projects
+
+## 🩺 Digital Doctor
+Secure **health record sharing platform** between doctors and patients.
+
 **Tech:** Node.js, React.js, PostgreSQL, Redis  
 
-### 🔹 [Portfolio Website](https://github.com/Jain-Daksh/portfolio)  
-Responsive personal portfolio with project showcase.  
-**Tech:** Next.js, Tailwind CSS  
+🔗 https://github.com/Jain-Daksh/digital-doctor
 
-### 🔹 [StackDo](https://github.com/Jain-Daksh/stackdo)  
-Task & Expense manager inspired by Notion & Todoist.  
+---
+
+## 💼 Portfolio Website
+Responsive developer portfolio.
+
+**Tech:** Next.js, TailwindCSS  
+
+🔗 https://github.com/Jain-Daksh/portfolio
+
+---
+
+## 📋 StackDo
+Task & expense manager inspired by **Notion & Todoist**.
+
 **Tech:** React.js, Node.js, Prisma, PostgreSQL  
 
-👉 Check out more projects on my [repositories](https://github.com/Jain-Daksh?tab=repositories).  
+🔗 https://github.com/Jain-Daksh/stackdo
 
 ---
 
-## 📈 GitHub Stats  
+# 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jain-Daksh&show_icons=true&theme=radical&token=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"/ alt="Daksh’s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Daksh&layout=compact&theme=radical&token=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" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Jain-Daksh&theme=radical" alt="GitHub Streak" />
-</div>  
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Jain-Daksh&show_icons=true&theme=radical&count_private=true" />
 
-## 🤝 Connect With Me  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Daksh&layout=compact&theme=radical&count_private=true" />
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/Jain-Daksh)  
-- 🌐 [Portfolio](https://jain-daksh.vercel.app/)  
-- ✉️ Email: daksh44jain@gmail.com  
+<img src="https://streak-stats.demolab.com/?user=Jain-Daksh&theme=radical" />
+
+</p>
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jain-Daksh&theme=react-dark" />
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/Jain-Daksh
+
+🌐 Portfolio  
+https://jain-daksh.vercel.app
+
+📧 Email  
+daksh44jain@gmail.com
+
+---
+
+# ✨ Fun Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+⭐ From [Daksh Jain](https://github.com/Jain-Daksh)
