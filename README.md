@@ -40,8 +40,8 @@ Task & Expense manager inspired by Notion & Todoist.
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jain-Daksh&show_icons=true&theme=radical" alt="Daksh’s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Daksh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jain-Daksh&show_icons=true&theme=radical&token=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"/ alt="Daksh’s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Daksh&layout=compact&theme=radical&token=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" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=Jain-Daksh&theme=radical" alt="GitHub Streak" />
 </div>  
 
