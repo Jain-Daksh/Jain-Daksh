@@ -80,6 +80,14 @@ Task & expense manager inspired by **Notion & Todoist**.
 
 ---
 
+## ✍️ Technical Writing
+
+I enjoy sharing what I learn about backend systems, JavaScript, and system design.
+
+- 🔗 https://medium.com/@jaindaksh
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -102,16 +110,17 @@ Task & expense manager inspired by **Notion & Todoist**.
 
 # 🤝 Connect With Me
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/Jain-Daksh
 
-🌐 Portfolio  
+🌐 Portfolio
 https://jain-daksh.vercel.app
 
-📧 Email  
-daksh44jain@gmail.com
+✍️ Medium
+https://medium.com/@jaindaksh
 
----
+📧 Email
+[daksh44jain@gmail.com](mailto:daksh44jain@gmail.com)
 
 # ✨ Fun Quote
 
