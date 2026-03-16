@@ -111,7 +111,7 @@ I enjoy sharing what I learn about backend systems, JavaScript, and system desig
 # 🤝 Connect With Me
 
 💼 LinkedIn
-https://www.linkedin.com/in/Jain-Daksh
+https://www.linkedin.com/in/jaindaksh
 
 🌐 Portfolio
 https://jain-daksh.vercel.app
