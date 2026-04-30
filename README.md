@@ -67,7 +67,7 @@ Responsive developer portfolio.
 
 **Tech:** Next.js, TailwindCSS  
 
-🔗 https://github.com/Jain-Daksh/portfolio
+🔗 https://github.com/Jain-Daksh/JainDaksh
 
 ---
 
